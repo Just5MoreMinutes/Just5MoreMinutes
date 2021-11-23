@@ -11,6 +11,7 @@ I'm a student, procrastinator, writer, disappointment, gamer and most importantl
 - 📫 How to reach me: _If you want to reach out to me (for whatever reason) feel free to do so on discord or email_ :)
     - Discord: (っ◔◡◔)っ♥ Just5MoreMinutes ♥#0001
     - Email: just5moreminutez@gmail.com
+    - Twitter: https://twitter.com/_j5mm_
 
 Thanks for letting me waste your time with this readme :)
 
