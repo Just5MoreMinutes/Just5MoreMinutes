@@ -9,7 +9,7 @@ I'm a student, procrastinator, writer, disappointment, gamer and most importantl
 - 🌱 I’m currently learning _C and Java_!
 - 🤔 I’m looking for help with _getting my life together_!
 - 📫 How to reach me: _If you want to reach out to me (for whatever reason) feel free to do so on discord or email_ :)
-    - Discord: (っ◔◡◔)っ♥ Just5MoreMinutes ♥#9656
+    - Discord: (っ◔◡◔)っ♥ Just5MoreMinutes ♥#0001
     - Email: just5moreminutez@gmail.com
 
 Thanks for letting me waste your time with this readme :)
