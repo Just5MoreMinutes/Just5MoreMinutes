@@ -6,7 +6,7 @@ I'm a student, procrastinator, writer, disappointment, gamer and most importantl
 
 
 - 🔭 I’m currently working on _my personal website and much more_!
-- 🌱 I’m currently learning _C and Assembly_!
+- 🌱 I’m currently learning _Go and Assembly_!
 - 🤔 I’m looking for help with _getting my life together_!
 - 📫 How to reach me: _If you want to reach out to me (for whatever reason) feel free to do so on discord or email_ :)
     - Discord: (っ◔◡◔)っ🎄 Just5MoreMinutes 🎄#0001
