@@ -1,32 +1,15 @@
 ### Hey there ʕ•́ᴥ•̀ʔっ
 
 
-I'm Just5MoreMinutes!
-I'm a student, procrastinator, writer, disappointment, gamer and most importantly, a developer.
-
-
-- 🔭 I’m currently working on _my personal website and much more_!
-- 🌱 I’m currently learning _Go and Assembly_!
-- 🤔 I’m looking for help with _getting my life together_!
-- 📫 How to reach me: _If you want to reach out to me (for whatever reason) feel free to do so on discord or email_ :)
-    - Discord: (っ◔◡◔)っ🎄 Just5MoreMinutes 🎄#0001
-    - Email: just5moreminutez@gmail.com
-    - Twitter: https://twitter.com/_j5mm_
-
-Thanks for letting me waste your time with this readme :)
-
-~ byee o/
-<!--
-**Just5MoreMinutes/Just5MoreMinutes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Just5MoreMinutes!<br>
+Overlord of random, procrastinator, writer, student, and professional disappointment!<br>And of course also a developer, but that's not of importance now is it...
+<br><br>
+<i><b>Languages</b></i>: HTML, CSS, Python, Go, Assembly, also a bit of Java and C<br>
+<i><b>Focusing on</b></i>: Everything and nothing; for short, <i>random bullshit go</i><br>
+<i><b>Contact</b></i>: If you want to reach out to me for whatever reason please feel free to do so via discord or email!
+<ul>
+    <li><i>EMAIL</i>: just5moreminutez@gmail.com</li>
+    <li><i>DISCORD</i>: (っ◔◡◔)っ💤 Just5MoreMinutes 💤#0001</li>
+</ul>
+Alright thanks for letting me waste your time <33<br>
+Have a great day :)
