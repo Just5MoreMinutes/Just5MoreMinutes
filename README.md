@@ -3,7 +3,6 @@
 
 I'm Just5MoreMinutes!<br>
 I'm a developer, student, writer, music-enthusiast and also a huge lover of coffee.<br>
-I started coding around 5 years ago at the age of 12 (though, to be fair, back then I wasn't too dedicated) and since then developed a love-hate relationship with it.
 <br><br>
 <i><b>Languages</b></i>: Python, JS, HTML, CSS, C, Java, Assembly<br>
 <i><b>Currently learning</b></i>: Go, C, Assembly
