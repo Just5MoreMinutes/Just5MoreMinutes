@@ -6,6 +6,7 @@ I'm a developer, student, writer, music-enthusiast and also a huge lover of coff
 <br><br>
 <i><b>Languages</b></i>: Python, JS, HTML, CSS, C, Java, Assembly<br>
 <i><b>Currently learning</b></i>: Go, C, Assembly
+
 <i><b>Focusing on</b></i>: Everything and nothing; for short, <i>random bullshit go</i><br>
 <i><b>Contact</b></i>: If you want to reach out to me for whatever reason please feel free to do so via discord or email!
 <ul>
