@@ -22,5 +22,5 @@ Hey everyone! I'm Just5MoreMinutes!<br>I'm a 17-year-old developer, writer, and 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Just5MoreMinutes&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Just5MoreMinutes&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ---
-[![](https://visitcount.itsvg.in/api?id=Just5MoreMinutes&icon=7&color=0)](https://visitcount.itsvg.in)-->
+---
+[![](https://visitcount.itsvg.in/api?id=Just5MoreMinutes&icon=7&color=0)](https://visitcount.itsvg.in)
