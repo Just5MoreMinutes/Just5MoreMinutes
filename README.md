@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Heyyo GitHub :)
+<!-- # 💫 About Me:
 Hey everyone! I'm Just5MoreMinutes!<br>I'm a 17-year-old developer, writer, and wanna-be musician from Austria!<br><br>🔭 *I’m currently working on*: simplicitas (python library for CLI)<br>👯 *I’m looking to collaborate on*: Everything but blockchain, please stay away from me with that shi-<br>🌱 *I’m currently learning*: Compilers/Interpreters, Assembly<br>💬 *Ask me about*: Anything! I'm happy to connect :)<br>⚡ *Fun fact*: I love loud music, and drink an ungodly amount of coffee
 
 
@@ -23,4 +24,4 @@ Hey everyone! I'm Just5MoreMinutes!<br>I'm a 17-year-old developer, writer, and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Just5MoreMinutes&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Just5MoreMinutes&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Just5MoreMinutes&icon=7&color=0)](https://visitcount.itsvg.in) -->
