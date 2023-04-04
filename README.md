@@ -18,9 +18,9 @@ Hey everyone! I'm Just5MoreMinutes!<br>I'm a 17-year-old developer, writer, and 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: -->
 ![](https://github-readme-stats.vercel.app/api?username=Just5MoreMinutes&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Just5MoreMinutes&theme=nord&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Just5MoreMinutes&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Just5MoreMinutes&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
